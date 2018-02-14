@@ -11,8 +11,7 @@ Interviews for the piece included a woman who accumulated debts to feed her chil
 ## Get the data
 
 * UK Finance: [UK lending by postcode sector](https://www.ukfinance.org.uk/statistics/postcode-lending/)
-* ONS: [Local authority revenue expenditure and financing England: 2016 to 2017 individual local authority data - outturn](https://www.gov.uk/government/statistics/local-authority-revenue-expenditure-and-financing-england-2016-to-2017-individual-local-authority-data-outturn)
-* ONS: [Local authority revenue expenditure and financing England: 2016 to 2017 budget individual local authority data](https://www.gov.uk/government/statistics/local-authority-revenue-expenditure-and-financing-england-2016-to-2017-budget-individual-local-authority-data)
+* ONS: Full time pay by local authority
 
 ## Visualisation and interactivity
 
@@ -21,5 +20,3 @@ Interviews for the piece included a woman who accumulated debts to feed her chil
 * Interactive chatbot: "This BBC chatbot lets you ask questions about debt and how it affects you."
 * Multiple bar chart: Growth in personal loan debt compared with rise in pay 2013-2017: % rise in unsecured personal loan debt vs % rise in median full time wagse
 * Bar chart: Biggest rises in unsecured personal loan debt 2013/14-2016/17 by postcode area
-
-
